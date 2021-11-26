@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tildes/static/css/main.22a3db1a.chunk.css",
-    "main.js": "/tildes/static/js/main.ecfed977.chunk.js",
-    "main.js.map": "/tildes/static/js/main.ecfed977.chunk.js.map",
+    "main.js": "/tildes/static/js/main.7cb9ef96.chunk.js",
+    "main.js.map": "/tildes/static/js/main.7cb9ef96.chunk.js.map",
     "runtime-main.js": "/tildes/static/js/runtime-main.fd8bbae1.js",
     "runtime-main.js.map": "/tildes/static/js/runtime-main.fd8bbae1.js.map",
     "static/js/2.f55bb6df.chunk.js": "/tildes/static/js/2.f55bb6df.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fd8bbae1.js",
     "static/js/2.f55bb6df.chunk.js",
     "static/css/main.22a3db1a.chunk.css",
-    "static/js/main.ecfed977.chunk.js"
+    "static/js/main.7cb9ef96.chunk.js"
   ]
 }
