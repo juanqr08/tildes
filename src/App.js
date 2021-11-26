@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.scss';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import VerifyTildes from './components/VerifyTildes';
@@ -11,7 +11,7 @@ function App() {
       <div>
         <Navbar />
         <Routes>
-          <Route path="/" exact element={<Tildes />}/>
+          <Route path="/tildes" exact element={<Tildes />}/>
           <Route path="/verify" exact element={<VerifyTildes />}/>
         </Routes>
       </div>

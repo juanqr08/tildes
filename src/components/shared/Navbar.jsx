@@ -3,7 +3,6 @@ import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
-import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
 import UploadFileIcon from '@mui/icons-material/UploadFile';
@@ -45,7 +44,7 @@ export default function ButtonAppBar() {
       onKeyDown={toggleDrawer(anchor, false)}
     >
       <List>
-        <ListItem button component={Link} to='/' key='Listado de Tildes'>
+        <ListItem button component={Link} to='/tildes' key='Listado de Tildes'>
           <ListItemIcon>
             <FormatListNumberedRtlIcon />
           </ListItemIcon>
